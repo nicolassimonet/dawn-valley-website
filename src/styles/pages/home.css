@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+
+
+.container__hexagon {
+  display: flex;
+  margin-top: 50px;
+}
+
+
+.hexagon {
+  width: 150px;
+}
+
+.hexagon__2 {
+  width: 150px;
+}
+
+.hexagon__3 {
+  width: 150px;
+}
+
+h2 {
+  color: white;
+  font-size: 34px;
+  font-family: 'Rye', cursive;
+  border-bottom: 1px solid white;
+  margin-top: 10px;
+}
+
+.content__hexa-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content__hexa-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content__hexa-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container__hexagon p {
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 22px;
+}
+
+.container__trailer {
+  margin-bottom: 100px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trailer__video {
+  width: 800px;
+  height: 400px;
+}

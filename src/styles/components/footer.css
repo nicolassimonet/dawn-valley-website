@@ -1,0 +1,28 @@
+footer {
+  background: linear-gradient(90deg, rgba(88,10,0,1) 0%, rgba(121,9,9,1) 49%, rgba(166,22,6,1) 100%);
+  position: fixed;
+  bottom: 0;
+  height: 55px;
+  width: 100%;
+  margin-top: 100px;
+}
+
+img {
+  width: 40px;
+  color: white;
+}
+
+footer ul {
+  background: linear-gradient(90deg, rgba(88,10,0,1) 0%, rgba(121,9,9,1) 49%, rgba(166,22,6,1) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer ul li {
+  margin-top: 0.6%;
+}
+
+footer ul li a {
+  padding-right: 50px;
+}

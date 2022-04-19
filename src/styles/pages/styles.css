@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background: rgb(29, 29, 29);
+}
+
+
+li {
+  list-style-type: none;
+}
+
