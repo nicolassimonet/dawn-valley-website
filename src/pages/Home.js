@@ -12,7 +12,7 @@ const Home = () => {
       <div className="container__hexagon">
         <div className="content__hexa-1">
           <img className="hexagon" src={Hexa1} alt="" />
-          <h2 className="title__1">Titre 1</h2>
+          <h2 className="title__hexa">Titre 1</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
             sit temporibus aliquid consequatur maiores qui voluptate nam quam
@@ -22,7 +22,7 @@ const Home = () => {
 
         <div className="content__hexa-2">
           <img className="hexagon__2" src={Hexa2} alt="" />
-          <h2 className="title__2">Titre 2</h2>
+          <h2 className="title__hexa">Titre 2</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
             voluptates ab, modi voluptatum aliquid repudiandae odit dolorem
@@ -32,7 +32,7 @@ const Home = () => {
 
         <div className="content__hexa-3">
           <img className="hexagon__3" src={Hexa3} alt="" />
-          <h2 className="title__3">Titre 3</h2>
+          <h2 className="title__hexa">Titre 3</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
             distinctio dolore amet cupiditate quos laudantium incidunt

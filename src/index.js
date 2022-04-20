@@ -8,6 +8,8 @@ import "./styles/components/footer.css";
 import "./styles/pages/rules.css";
 import "./styles/pages/vote.css";
 import "./styles/pages/gallery.css";
+import "./styles/pages/lore.css";
+import "./styles/pages/commandes.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

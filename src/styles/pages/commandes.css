@@ -1,0 +1,25 @@
+.commands__container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.commands__title {
+  color: white;
+  border-bottom: 1px solid white;
+  margin-bottom: 30px;
+}
+
+.commands__container p {
+  color: wheat;
+  font-size: 24px;
+  padding-bottom: 15px;
+}
+
+
+.commands__container strong {
+  border-bottom: 1px solid wheat;
+}

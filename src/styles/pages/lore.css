@@ -1,0 +1,17 @@
+.images__container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.images__container img {
+  width: 500px;
+}
+
+.images__container img:nth-child(2) {
+  padding-top: 50px;
+}
