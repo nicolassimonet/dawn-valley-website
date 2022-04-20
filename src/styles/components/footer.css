@@ -26,3 +26,15 @@ footer ul li {
 footer ul li a {
   margin-right: 50px;
 }
+
+@media screen and (max-width: 768px) {
+  footer ul {
+    margin-left: 10%;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  footer ul li a {
+    margin-right: 30px;
+  }
+}

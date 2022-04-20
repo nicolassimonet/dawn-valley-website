@@ -70,3 +70,11 @@
   width: 800px;
   height: 400px;
 }
+
+@media (max-width: 915px) {
+  .container__hexagon {
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+  }
+}

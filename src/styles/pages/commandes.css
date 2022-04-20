@@ -1,10 +1,11 @@
 .commands__container {
-  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: 20px;
 }
 
 .commands__title {
