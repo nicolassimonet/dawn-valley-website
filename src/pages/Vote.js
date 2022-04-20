@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../components/Footer';
 import Navigation from '../components/Navigation';
+import Banner from "../img/banner.png"
 
 const Vote = () => {
   return (
@@ -16,7 +17,7 @@ const Vote = () => {
             ici
           </a>
         </p>
-        <img className="banner" src="./banner.png" alt="Bannière dawn valley" />
+          <a href="https://top-serveurs.net/rdr/dawnvalley-redm"><img className="banner" src={Banner} alt="Bannière dawn valley" /></a>
       </div>
       <Footer />
     </div>
