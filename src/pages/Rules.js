@@ -6,8 +6,12 @@ const Rules = () => {
   return (
     <div>
     <Navigation />
-      <h1>Réglement</h1>
-      
+      <div className='rules__container'>
+      <iframe
+          className="webpage__rules"
+          title="page réglement"
+          src="https://althasy.gitbook.io/dawnvalley-redm/reglement/reglement-de-base" />
+      </div>
     <Footer />
     </div>
   );

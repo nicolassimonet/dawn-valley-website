@@ -7,7 +7,7 @@ const Lore = () => {
     <div>
     <Navigation />
       <h1>Lore</h1>
-      <Footer />
+    <Footer />
     </div>
   );
 };

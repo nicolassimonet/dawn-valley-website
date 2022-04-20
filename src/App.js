@@ -5,7 +5,6 @@ import Rules from "./pages/Rules";
 import Lore from "./pages/Lore";
 import Commandes from "./pages/Commandes";
 import Faq from "./pages/Faq";
-import Reseaux from "./pages/Reseaux";
 import Vote from "./pages/Vote"
 import Galerie from "./pages/Galerie";
 
@@ -19,7 +18,6 @@ function App() {
           <Route path="/commandes-ig" element={<Commandes />} />
           <Route path="/faq" element={<Faq />} />
           <Route path="/galerie" element={<Galerie />} />
-          <Route path="/reseaux" element={<Reseaux />} />
           <Route path="/vote" element={<Vote />} />
           <Route path="*" element={<Home />} />
         </Routes>
