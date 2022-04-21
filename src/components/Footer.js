@@ -1,8 +1,8 @@
 import React from 'react';
-import Twitter from "../img/twitter.jpeg";
-import Insta from "../img/insta.png";
-import Youtube from "../img/youtube.png";
-import Discord from "../img/discord.png";
+import Twitter from "../img/twitter.webp";
+import Insta from "../img/insta.webp";
+import Youtube from "../img/youtube.webp";
+import Discord from "../img/discord.webp";
 
 const Footer = () => {
   return (

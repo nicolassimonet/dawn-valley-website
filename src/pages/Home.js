@@ -1,9 +1,9 @@
 import React from "react";
 import Navigation from "../components/Navigation";
 import Footer from "../components/Footer";
-import Hexa1 from "../img/hexa1.png";
-import Hexa2 from "../img/hexa2.png";
-import Hexa3 from "../img/hexa3.png";
+import Hexa1 from "../img/hexa1.webp";
+import Hexa2 from "../img/hexa2.webp";
+import Hexa3 from "../img/hexa3.webp";
 
 const Home = () => {
   return (
