@@ -31,7 +31,7 @@ const Home = () => {
         </div>
 
         <div className="content__hexa-3">
-          <img className="hexagon__3" src={Hexa3} alt="" />
+          <img className="hexagon__3" width="150" height="150" src={Hexa3} alt="" />
           <h2 className="title__hexa">Titre 3</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam

@@ -10,15 +10,18 @@
 
 
 .hexagon {
-  width: 150px;
+  width: 100%;
+  height: auto;
 }
 
 .hexagon__2 {
-  width: 150px;
+  width: 100%;
+  height: auto;
 }
 
 .hexagon__3 {
-  width: 150px;
+  width: 100%;
+  height: auto;
 }
 
 .title__hexa {
