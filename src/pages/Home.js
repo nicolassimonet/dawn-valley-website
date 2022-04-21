@@ -11,7 +11,7 @@ const Home = () => {
       <Navigation />
       <div className="container__hexagon">
         <div className="content__hexa-1">
-          <img className="hexagon" src={Hexa1} alt="" />
+          <img className="hexagon" width="150" height="150" src={Hexa1} alt="" />
           <h2 className="title__hexa">Titre 1</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
@@ -21,7 +21,7 @@ const Home = () => {
         </div>
 
         <div className="content__hexa-2">
-          <img className="hexagon__2" src={Hexa2} alt="" />
+          <img className="hexagon__2" width="150" height="150" src={Hexa2} alt="" />
           <h2 className="title__hexa">Titre 2</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
