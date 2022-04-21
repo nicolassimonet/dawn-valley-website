@@ -7,9 +7,10 @@ footer {
   margin-top: 100px;
 }
 
-img {
+footer img {
   width: 40px;
   color: white;
+  height: auto;
 }
 
 footer ul {
