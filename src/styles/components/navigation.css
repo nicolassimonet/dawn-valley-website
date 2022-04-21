@@ -16,6 +16,7 @@
 }
 
 .navigation ul {
+  width: 93%;
   height: 50%;
   display: flex;
   justify-content: center;
