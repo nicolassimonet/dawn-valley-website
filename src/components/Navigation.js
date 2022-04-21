@@ -28,6 +28,7 @@ const Navigation = () => {
             clipRule="evenodd"
           />
         </svg>
+        .
       </button>
       <ul>
         <NavLink to="/" className={(nav) => (nav.isActive ? "nav-active" : "")}>

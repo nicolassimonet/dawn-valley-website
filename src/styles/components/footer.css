@@ -25,6 +25,7 @@ footer ul li {
 
 footer ul li a {
   margin-right: 50px;
+  color: transparent;
 }
 
 @media screen and (max-width: 768px) {
